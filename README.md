@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 I’m Thierry, CTO at Edifitek for 11 years, leading a talented team of developers and driving innovative solutions for SMEs. With a strong background in back-end and front-end development, I specialize in building efficient systems tailored to business needs. I specialize in creating efficient solutions for SMEs, including ERP systems, custom software, and e-commerce platforms.
 
 💼 Current Projects:
